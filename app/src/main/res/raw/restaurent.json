@@ -1,0 +1,242 @@
+[
+  {
+    "name":"CAGAN PUB BISTRO KARTAL",
+    "address":"KARTAL",
+    "delivery_charge": 5,
+    "image":"https://media.istockphoto.com/id/1305024698/tr/vekt%C3%B6r/irlanda-pub-d%C4%B1%C5%9F-vekt%C3%B6r-ill%C3%BCstrasyon-cephenin-d%C3%BCz-tasar%C4%B1m%C4%B1-bira-evi-in%C5%9Fa-konsepti-avrupa.jpg?s=1024x1024&w=is&k=20&c=i3HoEQ6E1Ql3Nju8rigkIjHjZKJwnkFR1iuov4oOxyE=",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "METALLICA",
+        "price": 7.00,
+        "url": "https://www.shutterstock.com/image-photo/bartender-girl-adding-brown-cocktail-600w-1253104531.jpg"
+      },
+      {
+        "name": "BEER",
+        "price": 6.00,
+        "url": "https://www.shutterstock.com/image-photo/beer-600w-617336486.jpg"
+      },
+      {
+        "name": "FRENCH FRIES",
+        "price": 4.99,
+        "url": "https://www.shutterstock.com/image-photo/french-fries-600w-510881971.jpg"
+      },
+      {
+        "name": "VODKA",
+        "price": 9.99,
+        "url": "https://www.shutterstock.com/image-photo/bottle-smirnoff-brand-vodka-produced-600w-1716717901.jpg"
+      },
+      {
+        "name": "JAGER",
+        "price": 2.49,
+        "url": "https://www.shutterstock.com/image-photo/chelyabinsk-russia-july-30-2021-600w-2020166573.jpg"
+      },
+      {
+        "name": "BURGER",
+        "price": 6.49,
+        "url": "https://www.shutterstock.com/image-photo/fresh-tasty-burger-on-dark-600w-1937730733.jpg"
+      },
+
+      {
+        "name": "WHISKEY",
+        "price": 1.00,
+        "url": "https://www.shutterstock.com/image-photo/lviv-ukraine-april-072020-jack-600w-1913273998.jpg"
+      },
+
+      {
+        "name": "TEKILA",
+        "price": 1.79,
+        "url": "https://www.shutterstock.com/image-photo/mexican-tequila-lime-salt-on-600w-1918936217.jpg"
+      }
+
+    ]
+  },
+  {
+    "name":"CAGAN PUB BISTRO BESIKTAS",
+    "address":"BESIKTAS",
+    "delivery_charge": 4,
+    "image":"https://media.istockphoto.com/id/1305024698/tr/vekt%C3%B6r/irlanda-pub-d%C4%B1%C5%9F-vekt%C3%B6r-ill%C3%BCstrasyon-cephenin-d%C3%BCz-tasar%C4%B1m%C4%B1-bira-evi-in%C5%9Fa-konsepti-avrupa.jpg?s=1024x1024&w=is&k=20&c=i3HoEQ6E1Ql3Nju8rigkIjHjZKJwnkFR1iuov4oOxyE=",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "METALLICA",
+        "price": 7.00,
+        "url": "https://www.shutterstock.com/image-photo/bartender-girl-adding-brown-cocktail-600w-1253104531.jpg"
+      },
+      {
+        "name": "BEER",
+        "price": 6.00,
+        "url": "https://www.shutterstock.com/image-photo/beer-600w-617336486.jpg"
+      },
+      {
+        "name": "FRENCH FRIES",
+        "price": 4.99,
+        "url": "https://www.shutterstock.com/image-photo/french-fries-600w-510881971.jpg"
+      },
+      {
+        "name": "VODKA",
+        "price": 9.99,
+        "url": "https://www.shutterstock.com/image-photo/bottle-smirnoff-brand-vodka-produced-600w-1716717901.jpg"
+      },
+      {
+        "name": "JAGER",
+        "price": 2.49,
+        "url": "https://www.shutterstock.com/image-photo/chelyabinsk-russia-july-30-2021-600w-2020166573.jpg"
+      },
+      {
+        "name": "BURGER",
+        "price": 6.49,
+        "url": "https://www.shutterstock.com/image-photo/fresh-tasty-burger-on-dark-600w-1937730733.jpg"
+      },
+
+      {
+        "name": "WHISKEY",
+        "price": 1.00,
+        "url": "https://www.shutterstock.com/image-photo/lviv-ukraine-april-072020-jack-600w-1913273998.jpg"
+      },
+
+      {
+        "name": "TEKILA",
+        "price": 1.79,
+        "url": "https://www.shutterstock.com/image-photo/mexican-tequila-lime-salt-on-600w-1918936217.jpg"
+      }
+
+    ]
+  },
+  {
+    "name":"CAGAN PUB BISTRO ANKARA",
+    "address":"ANKARA",
+    "delivery_charge": 5,
+    "image":"https://media.istockphoto.com/id/1305024698/tr/vekt%C3%B6r/irlanda-pub-d%C4%B1%C5%9F-vekt%C3%B6r-ill%C3%BCstrasyon-cephenin-d%C3%BCz-tasar%C4%B1m%C4%B1-bira-evi-in%C5%9Fa-konsepti-avrupa.jpg?s=1024x1024&w=is&k=20&c=i3HoEQ6E1Ql3Nju8rigkIjHjZKJwnkFR1iuov4oOxyE=",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "METALLICA",
+        "price": 7.00,
+        "url": "https://www.shutterstock.com/image-photo/bartender-girl-adding-brown-cocktail-600w-1253104531.jpg"
+      },
+      {
+        "name": "BEER",
+        "price": 6.00,
+        "url": "https://www.shutterstock.com/image-photo/beer-600w-617336486.jpg"
+      },
+      {
+        "name": "FRENCH FRIES",
+        "price": 4.99,
+        "url": "https://www.shutterstock.com/image-photo/french-fries-600w-510881971.jpg"
+      },
+      {
+        "name": "VODKA",
+        "price": 9.99,
+        "url": "https://www.shutterstock.com/image-photo/bottle-smirnoff-brand-vodka-produced-600w-1716717901.jpg"
+      },
+      {
+        "name": "JAGER",
+        "price": 2.49,
+        "url": "https://www.shutterstock.com/image-photo/chelyabinsk-russia-july-30-2021-600w-2020166573.jpg"
+      },
+      {
+        "name": "BURGER",
+        "price": 6.49,
+        "url": "https://www.shutterstock.com/image-photo/fresh-tasty-burger-on-dark-600w-1937730733.jpg"
+      },
+
+      {
+        "name": "WHISKEY",
+        "price": 1.00,
+        "url": "https://www.shutterstock.com/image-photo/lviv-ukraine-april-072020-jack-600w-1913273998.jpg"
+      },
+
+      {
+        "name": "TEKILA",
+        "price": 1.79,
+        "url": "https://www.shutterstock.com/image-photo/mexican-tequila-lime-salt-on-600w-1918936217.jpg"
+      }
+
+    ]
+  },
+  {
+    "name":"CAGAN PUB BISTRO ANTALYA",
+    "address":"ANTALYA",
+    "delivery_charge": 6,
+    "image":"https://media.istockphoto.com/id/1305024698/tr/vekt%C3%B6r/irlanda-pub-d%C4%B1%C5%9F-vekt%C3%B6r-ill%C3%BCstrasyon-cephenin-d%C3%BCz-tasar%C4%B1m%C4%B1-bira-evi-in%C5%9Fa-konsepti-avrupa.jpg?s=1024x1024&w=is&k=20&c=i3HoEQ6E1Ql3Nju8rigkIjHjZKJwnkFR1iuov4oOxyE=",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "METALLICA",
+        "price": 7.00,
+        "url": "https://www.shutterstock.com/image-photo/bartender-girl-adding-brown-cocktail-600w-1253104531.jpg"
+      },
+      {
+        "name": "BEER",
+        "price": 6.00,
+        "url": "https://www.shutterstock.com/image-photo/beer-600w-617336486.jpg"
+      },
+      {
+        "name": "FRENCH FRIES",
+        "price": 4.99,
+        "url": "https://www.shutterstock.com/image-photo/french-fries-600w-510881971.jpg"
+      },
+      {
+        "name": "VODKA",
+        "price": 9.99,
+        "url": "https://www.shutterstock.com/image-photo/bottle-smirnoff-brand-vodka-produced-600w-1716717901.jpg"
+      },
+      {
+        "name": "JAGER",
+        "price": 2.49,
+        "url": "https://www.shutterstock.com/image-photo/chelyabinsk-russia-july-30-2021-600w-2020166573.jpg"
+      },
+      {
+        "name": "BURGER",
+        "price": 6.49,
+        "url": "https://www.shutterstock.com/image-photo/fresh-tasty-burger-on-dark-600w-1937730733.jpg"
+      },
+
+      {
+        "name": "WHISKEY",
+        "price": 1.00,
+        "url": "https://www.shutterstock.com/image-photo/lviv-ukraine-april-072020-jack-600w-1913273998.jpg"
+      },
+
+      {
+        "name": "TEKILA",
+        "price": 1.79,
+        "url": "https://www.shutterstock.com/image-photo/mexican-tequila-lime-salt-on-600w-1918936217.jpg"
+      }
+
+    ]
+  }
+]
